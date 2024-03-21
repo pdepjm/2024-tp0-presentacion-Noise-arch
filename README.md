@@ -13,5 +13,5 @@ console.log("Pero quiero aprender otros lenguajes como Rust o Python, y adentrar
 ```bash
 echo "Insertando foto carnet..."
 ```
-![Foto](https://i.imgur.com/50jzjoE.jpeg)
+<img src="https://i.imgur.com/50jzjoE.jpeg" width="100" height="95">
 
